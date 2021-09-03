@@ -16,7 +16,7 @@ Firebase is used for the backend
 
 
 > Live Link (Firebase)
-[Project live link](https://linkedin-clone-5609b.web.app/ -)
+[Project live link] (https://linkedin-clone-5609b.web.app/ -)
 
 > Built With
 This project was built using these technologies.
